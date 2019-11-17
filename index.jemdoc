@@ -1,0 +1,75 @@
+# jemdoc: menu{MENU}{index.html}, title({Son N. Nguyen's homepage}, nodefaultcss, addcss{luan.css}, analytics{UA-77683282-1}
+= Welcome to Son N. Nguyen's Homepage
+
+~~~
+{}{img_left}{pic2.png}{Son Nguyen}
+*Son N. Nguyen*, Ph.D.\n
+[https://www.utsouthwestern.edu/departments/bioinformatics/ Department of Bioinformatics]\n
+[https://www.utsouthwestern.edu/ UTSouthwestern Medical Center]\n
+Email: Son dot Nguyen at UTSouthwestern dot edu
+~~~
+
+Son N. Nguyen completed his Ph.D. from [https://www.uta.edu/ The University of Texas at Arlington]. 
+He graduated from B.E. program in December 2012 at [http://hcm.ptit.edu.vn/ Post and Telecommunications Institute of Technology].
+During his Ph.D., he was a member of the [http://www.uta.edu/faculty/manry/index.html Image Processing and Neural Networks lab] at [https://www.uta.edu/uta/ The University of Texas at Arlington], under the supervision of Prof. [https://mentis.uta.edu/explore/profile/michael-manry Michael T Manry]. 
+His major research areas include neural network training algorithms design, computer vision, deep learning and medical images. 
+
+
+# Son Nguyen's CV can be found [Son Nguyen_Machine Learning.pdf here].  
+
+== What's new
+- Nov 2019: I join [http://aamontillo.net/ Deep Learning for Precision Health Lab] as a Postdoctoral Researcher
+
+
+== Research Interest
+- Medical imaging
+- Neural network training: algorithms design using second order methods
+- Convolutional Neural network for images classification
+- Data mining, find patterns in data
+- Software Engineering
+
+
+
+== Education
+- Ph.D., Electrical Engineering, [http://www.uta.edu The University of Texas at Arlington],
+  August 2019 
+- B.E., Telecommunications Engineering, [http://hcm.ptit.edu.vn/ Post and Telecommunications Institute of Technology], Jan 2012
+
+== Working Experience
+- Postdoctoral Researcher, UTSouthwestern Medical Center, Nov 2019-Present
+- Software Engineer, TMA Solutions, April 2012 - June 2013
+
+== Publications
+- *Son Nguyen*, K.Tyagi, and M.T.Manry, “Partially Affine Invariant Back Propagation.”
+The 2016 International Joint Conference on Neural Networks (IJCNN 2016), IEEE,
+Vancouver, Canada, July 2016 ([https://ieeexplore.ieee.org/abstract/document/7727283 link])
+- S.Auddy, K.Tyagi, *Son Nguyen* and M.T.Manry, “Discriminant Vector Transformations
+in Neural Network Classifiers” The 2016 International Joint Conference on Neural Networks
+(IJCNN 2016), IEEE, Vancouver, Canada, July 2016 ([https://www.researchgate.net/profile/Michael_Manry/publication/309776918_Discriminant_vector_tranformations_in_neural_network_classifiers/links/5be5d22f299bf1124fc673b3/Discriminant-vector-tranformations-in-neural-network-classifiers.pdf link])
+- P.Kheirkhah, K.Tyagi, *Son Nguyen*, and M.T.Manry, “Structural adaption for sparsely
+connected MLP using Newton’s method.” The 2017 International Joint Conference on Neural
+Networks (IJCNN 2017), IEEE, Anchorage, AK, USA, May 2017. ([https://ieeexplore.ieee.org/abstract/document/7966422 link])
+- *Son Nguyen*, M.D.Robinson, M.T.Manry, “Multistep Newton Training in Feedforward
+Neural Networks.” Neural Processing Letters (Under review).
+- K.Tyagi, *Son Nguyen*, R.Rawat, M.T.Manry, “Second-order training and sizing for the
+multilayer perceptron.” Neural Processing Letters (2019): 1-29 ([https://link.springer.com/article/10.1007/s11063-019-10116-7 link]).
+- *Son Nguyen*, M.T.Manry, “Balanced gradient training in back propagation.” Neural
+Processing Letters (Under review)
+
+== Teaching
+Teaching assistant at [http://www.uta.edu/ The University of Texas at Arlington] for:
+- Embedded Microcontroller (EE5314), Spring 2017, Fall 2017, Spring 2018, Fall 2018, Spring 2019
+- Circuit Analysis (EE2320), Summer 2018
+- Digital Signal Processing (EE5350), Spring 2016
+- Neural Networks and Deep Learning (EE5353), Fall 2015, Fall 2016
+- Statistical Pattern Recognition (EE5357), Summer 2016
+
+== Award and Honors
+- 2019, Lockheed Martin Missiles and Fire Control Graduate Fellowship Endowment Engineering
+- Summer 2019, dissertation fellowship. The fellowship funds all of the tuition and living
+expenses for my last semester as a Ph.D. student.
+- Vietnam Education Foundation (VEF) fellowship, cohort 2013. Sponsored and funded
+by the U.S. government, the fellowship brings Vietnamese students to the U.S. to study
+graduate programs. I am one of the 40 chosen students in 2013.
+
+
